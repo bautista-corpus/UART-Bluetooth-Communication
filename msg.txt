@@ -1,0 +1,12 @@
+wait 3000 ms
+"1"
+wait 3000 ms
+"2"
+wait 3000 ms
+"3"
+wait 3000 ms
+"a"
+wait 3000 ms
+"b"
+wait 3000 ms
+"c"
